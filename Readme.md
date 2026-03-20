@@ -1,4 +1,4 @@
 Hello my name is brijesh gaur 
-author of openai
+cofounder of openai
 company openAi
  
